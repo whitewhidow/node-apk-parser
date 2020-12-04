@@ -1,15 +1,5 @@
-#node-apk-parser
-based on **adbkit-apkreader**, add meta data parse feature
+FORK OF MISSING REPO FOR https://www.npmjs.com/package/node-apk-parser/
 
-**node-apk-parser** provides a [Node.js](http://nodejs.org/) API for extracting information from Android APK files. For example, it allows you to read the `AndroidManifest.xml` of an existing APK file.
-
-## Getting started
-
-Install via NPM:
-
-```bash
-npm install --save node-apk-parser
-```
 ### Examples
 
 #### Read the `AndroidManifest.xml` of an APK
